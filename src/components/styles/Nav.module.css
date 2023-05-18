@@ -1,0 +1,16 @@
+a{
+    text-decoration: none;
+}
+
+.containerLink{
+    display: flex;
+    gap: 10px;
+}
+
+.link{
+    color: gray;
+}
+
+.link:hover{
+    color: #bbbbbb;
+}
